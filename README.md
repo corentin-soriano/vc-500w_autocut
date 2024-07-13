@@ -42,8 +42,10 @@ The binaries are not included in this project for legal reasons and must be obta
 |      vc-500w Printer (port 9100)      |
 +---------------------------------------+
 ```
+<br>
 
 **Here is a typical exchange between cups and the printer intercepted by the proxy:**
+
 Cups requests to print a picture:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>\n<print>
