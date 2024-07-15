@@ -48,7 +48,8 @@ The binaries are not included in this project for legal reasons and must be obta
 
 Cups requests to print a picture:
 ```xml
-<?xml version="1.0" encoding="UTF-8"?>\n<print>
+<?xml version="1.0" encoding="UTF-8"?>
+<print>
 <speed>0</speed>
 <width>327</width>
 <height>404</height>
