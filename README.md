@@ -243,6 +243,7 @@ We need to create two printers in cups:
 <br><br>
 
 **Choose "Brother VC-500W" in list and click on continue (leave PPD file empty):**
+*If `Brother VC-500W` does not appear, connect it via USB (you can unplug it immediately after).*
 ![Cups choose make](screenshots/cups_10_make.png)
 <br><br>
 
